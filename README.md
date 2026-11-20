@@ -5,9 +5,9 @@ design preview — a concept, not the gym's official website.
 
 ## Demos
 
-- [Jasabi Fitness Center](https://usbankserver-ui.github.io/chenar-gym-demos/jasabi-fitness-center-demo.html) — strength, spin, pool and court sports off Peter Odili Road.
-- [Neighbourhood Gym (NHOOD Gym)](https://usbankserver-ui.github.io/chenar-gym-demos/ch-ch-002-neighbourhood-gym.html) — community gym in Rumuodomaya.
-- [Jesus and Fitness (JF Fitness)](https://usbankserver-ui.github.io/chenar-gym-demos/jesus-and-fitness-demo.html) — outdoor group training at Uwa Plaza, Mgbuoba.
+- [Jasabi Fitness Center](https://chenarbus.github.io/chenar-gym-demos/jasabi-fitness-center-demo.html) — strength, spin, pool and court sports off Peter Odili Road.
+- [Neighbourhood Gym (NHOOD Gym)](https://chenarbus.github.io/chenar-gym-demos/ch-ch-002-neighbourhood-gym.html) — community gym in Rumuodomaya.
+- [Jesus and Fitness (JF Fitness)](https://chenarbus.github.io/chenar-gym-demos/jesus-and-fitness-demo.html) — outdoor group training at Uwa Plaza, Mgbuoba.
 
 ## Notes
 
